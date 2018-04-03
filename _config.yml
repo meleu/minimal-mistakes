@@ -58,13 +58,14 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "http://www.gravatar.com/avatar/3b630bd3a90def23e68ab2f04a86da5c?s=140" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/meleuzord"
 
 # Analytics
 analytics:
@@ -75,12 +76,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "meleu"
+  avatar           : "http://www.gravatar.com/avatar/3b630bd3a90def23e68ab2f04a86da5c?s=140" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Enthusiast of Linux, command line interface, shell scripting, RetroAchievements, RetroArch, RetroPie, and many other stuff."
+  location         : "Brazil"
+  email            : "meleuzord at yahoo dot com"
+  uri              : "https://meleu.github.io/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -88,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "meleu"
   gitlab           :
   google_plus      :
   keybase          :
@@ -100,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "meleuzord"
   vine             :
   weibo            :
   xing             :
