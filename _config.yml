@@ -80,9 +80,9 @@ author:
   name             : meleu
   avatar           : "http://www.gravatar.com/avatar/3b630bd3a90def23e68ab2f04a86da5c?s=140" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Enthusiast of Linux, command line interface, shell scripting, RetroAchievements, RetroArch, RetroPie, and many other stuff."
-  location         : # "Brazil"
+  location         : "Brazil"
   email            : # "meleuzord at yahoo dot com"
-  uri              : # "https://meleu.github.io/
+  uri              : "https://meleu.github.io/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
